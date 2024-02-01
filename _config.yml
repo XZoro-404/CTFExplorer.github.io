@@ -79,7 +79,8 @@ algolia:
     - desc(subtitle)
     
 comments:
-  provider:         #Enable comments via Disqus, giscus or Cactus.chat
+  provider:        cusdis #Enable comments via Disqus, giscus or Cactus.chat
+  cusdis_app_id:   1145812c-8515-4c26-b4b7-d0d391bbe890
   disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
   cactus_shortname: #Your site id as registered with Cactus.chat
   
@@ -126,10 +127,13 @@ footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+      url   : https://github.com/XZoro-404 # A link or email: https://twitter.com/jack, mail@example.com
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
+    - label: "Email"
+      icon: fab fa-email
+      url: github.backer933@slmails.com
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings

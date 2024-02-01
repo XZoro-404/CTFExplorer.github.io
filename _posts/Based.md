@@ -1,4 +1,9 @@
 ---
+header_type: "hero"
+header_img : "https://picsum.photos/id/1018/2000/2000"
+title: Based
+subtitle: One of the first challenges in picoCTF
+last_modified_at: 2023-02-03
 tags:
   - cyberchef
   - netcat

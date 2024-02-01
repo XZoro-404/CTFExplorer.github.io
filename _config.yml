@@ -132,7 +132,7 @@ footer:
       icon: "fa fa-rss"
       url:  "./atom.xml"
     - label: "Email"
-      icon: fab fa-email
+      icon: fab fa-envelope
       url: github.backer933@slmails.com
   copyright: # default is © <year> <name> 
   

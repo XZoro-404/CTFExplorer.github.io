@@ -26,5 +26,5 @@ Unzip this archive and find the file named 'uber-secret.txt'
 
 3. **Utilize the cat command** to view the contents of the file. The flag can be found inside 'uber-secret.txt'.
 <details>
-  <summary>## Flag</summary>picoCTF{f1nd_15_f457_ab443fd1}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{f1nd_15_f457_ab443fd1}
 </details>

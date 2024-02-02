@@ -17,5 +17,5 @@ using a site such as md5hashgenerator.com md5 hash all of the different words th
 
 
 <details>
-  <summary>## Flag</summary>picoCTF{4ppl1c4710n_r3c31v3d_674c1de2}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{4ppl1c4710n_r3c31v3d_674c1de2}
 </details>

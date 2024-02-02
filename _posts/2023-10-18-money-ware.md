@@ -20,5 +20,5 @@ Flag format: picoCTF{Malwarename}The first letter of the malware name should be 
 ---
 Find an article that goes over 2017 cyberattack that references the bitcoin address related to it.
 <details>
-  <summary>## Flag</summary>picoCTF{Petya}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{Petya}
 </details>

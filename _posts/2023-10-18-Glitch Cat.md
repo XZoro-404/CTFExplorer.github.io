@@ -33,5 +33,5 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 
 <details>
-  <summary>## Flag</summary>picoCTF{gl17ch_m3_n07_a4392d2e}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{gl17ch_m3_n07_a4392d2e}
 </details>

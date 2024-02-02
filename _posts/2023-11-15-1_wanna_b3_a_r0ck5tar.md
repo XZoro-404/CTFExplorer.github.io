@@ -127,5 +127,5 @@ if the_music == a_guitar:
 9. We can now translate this into ascii which will give us: xxxxxxx <- {Obscured because it is the key}
 
 <details>
-  <summary>## Flag</summary>picoCTF{BONJOVI}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{BONJOVI}
 </details>

@@ -28,5 +28,5 @@ picoCTF{***********************}
 ```
 
 <details>
-  <summary>## Flag</summary>picoCTF{nEtCat_Mast3ry_284be8f7}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{nEtCat_Mast3ry_284be8f7}
 </details>

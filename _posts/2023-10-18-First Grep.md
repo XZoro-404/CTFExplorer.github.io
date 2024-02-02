@@ -20,5 +20,5 @@ Can you find the flag in [file](https://jupiter.challenges.picoctf.org/static/4
 
 
 <details>
-  <summary>## Flag</summary>picoCTF{grep_is_good_to_find_things_dba08a45}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{grep_is_good_to_find_things_dba08a45}
 </details>

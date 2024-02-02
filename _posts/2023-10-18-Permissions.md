@@ -53,5 +53,5 @@ picoCTF{uS1ng_v1m_3dit0r_3dd6dcf4}
 ```
 
 <details>
-  <summary>## Flag</summary>picoCTF{uS1ng_v1m_3dit0r_3dd6dcf4}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{uS1ng_v1m_3dit0r_3dd6dcf4}
 </details>

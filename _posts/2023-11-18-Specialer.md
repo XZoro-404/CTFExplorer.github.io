@@ -48,5 +48,5 @@ return 0 picoCTF{xxxxxxxxxxxxxxxxxxx}
 ```
 
 <details>
-  <summary>## Flag</summary>picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_d5ef8b71}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_d5ef8b71}
 </details>

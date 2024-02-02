@@ -22,5 +22,5 @@ Convert the following string of ASCII numbers into a readable string:`0x70 0x69 
 1. Using cyberchef you can try the magic operation to get an idea of what the ASCII numbers are
 2. Alternatively if you know what hexadecimal numbers look like you can take a guess that these are hex numbers and use cyberchef to decode
 <details>
-  <summary>## Flag</summary>picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{45c11_n0_qu35710n5_1ll_t311_y3_n0_l135_445d4180}
 </details>

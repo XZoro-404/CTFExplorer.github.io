@@ -55,5 +55,5 @@ if __name__ == "__main__":
 ```
 
 <details>
-  <summary>## Flag</summary>picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_de523f49}
+  <summary><h2>Flag</h2><hr></summary>picoCTF{base64_n3st3d_dic0d!n8_d0wnl04d3d_de523f49}
 </details>

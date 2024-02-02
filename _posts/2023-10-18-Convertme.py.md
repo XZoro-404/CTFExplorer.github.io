@@ -51,5 +51,5 @@ That is correct! Here's your flag: picoCTF{*****************}
 ```
 
 <details>
-  <summary>## Flag</summary>That is correct! Here's your flag: picoCTF{*****************}
+  <summary><h2>Flag</h2><hr></summary>That is correct! Here's your flag: picoCTF{*****************}
 </details>

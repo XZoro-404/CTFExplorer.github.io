@@ -20,33 +20,41 @@ Welcome to my personal hacking CTF blog! Here, I'll be sharing my experiences, c
 7. [About Me](#about-me)
 8. [Contact](#contact)
 
+
 ## Introduction to CTFs
 
 In this section, I'll provide an overview of what Capture The Flag competitions are all about, how they work, and why they're important in the cybersecurity community.
+
 
 ## PicoCTF
 
 Discover my experiences, challenges, and solutions from participating in PicoCTF competitions.
 
+
 ## TryHackMe
 
 Explore my adventures, write-ups, and learnings from TryHackMe platform challenges.
+
 
 ## Hack the Box
 
 Dive into the world of Hack the Box with me as I tackle various machines, challenges, and labs.
 
+
 ## Personal Projects
 
 Follow me on all my personal projects big and small.
+
 
 ## Misc Hacking
 
 In this section, I'll share miscellaneous hacking-related content, including tutorials, Misc CTFs, tips, and tricks.
 
+
 ## About Me
 
 Learn more about who I am, my background in cybersecurity, and what inspired me to start this blog.
+
 
 ## Contact
 

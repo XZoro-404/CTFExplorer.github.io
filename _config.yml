@@ -112,12 +112,12 @@ navbar:
         url   : /archive
 #      - title : Current skin
 #        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+#  - title   : Docs
+#    url     : https://dieghernan.github.io/chulapa/docs/01-install
+#  - title   : Use this template
+#    url     : https://github.com/dieghernan/chulapa-101/generate
   - title   : Pico CTF
-    url     : /pico-ctf
+    url     : /pico-ctf/
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
@@ -230,7 +230,7 @@ defaults:
       show_breadcrumb: true
       breadcrumb_list:
         - label: Pico CTF
-          url: /pico-ctf/
+          url: /pico-ctf
 
 
 # XX. Other settings - no need to modify

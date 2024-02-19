@@ -116,6 +116,8 @@ navbar:
     url     : https://dieghernan.github.io/chulapa/docs/01-install
   - title   : Use this template
     url     : https://github.com/dieghernan/chulapa-101/generate
+  - title   : Pico CTF
+    url     : /pico-ctf
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
